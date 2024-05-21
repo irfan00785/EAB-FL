@@ -5,7 +5,7 @@ This repository contains the implementation of the IJCAI-2024 Accepted Paper "EA
 
 We introduce a novel model poisoning attack, EAB-FL, designed to exacerbate group unfairness in FL systems while maintaining model utility. While existing attacks on Federated Learning (FL) primarily target model accuracy, they often overlook the potential to intensify model unfairness. To fully understand the attack surface of the FL framework, our proposed attack focuses on revealing and exploiting these vulnerabilities.
 
-##Structure
+## Structure
 
 ```bash
 EAB-FL/
