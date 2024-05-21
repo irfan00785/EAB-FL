@@ -15,6 +15,7 @@ EAB-FL/
 ├── quick_start.py           # Main script to execute the federated learning process
 ├── model_utils.py           # Model training, evaluation, and federated averaging functions
 └── requirements.txt         # Required Python packages
+```
 
 ## Quick Start
 
