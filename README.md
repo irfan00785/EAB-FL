@@ -7,10 +7,11 @@ We introduce a novel model poisoning attack, EAB-FL, designed to exacerbate grou
 
 ##Structure
 
+```bash
 EAB-FL/
 ├── data_utils.py            # Contains dataset-related classes and data transformation functions
 ├── eab_fl.py                # Functions for handling malicious clients and inducing model poisoning
-├── inlfuence.py             # Functions for calculating the influence score of data samples
+├── influence.py             # Functions for calculating the influence score of data samples
 ├── quick_start.py           # Main script to execute the federated learning process
 ├── model_utils.py           # Model training, evaluation, and federated averaging functions
 └── requirements.txt         # Required Python packages
