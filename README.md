@@ -19,5 +19,5 @@ EAB-FL/
 
 ## Quick Start
 
-Use the ```bash QuickStart.py ``` script for a quick start.
+Use the ```QuickStart.py ``` script for a quick start.
 In the script, you can find the minimal implementation for attacking the FL model trained on the CelebA dataset.
